@@ -86,4 +86,4 @@ The Sweet Bonanza smart contract provides the following functionality:
 - 🔄 Leaderboard system
 - 🔄 Multiple NFT tiers for different achievements
 - 🔄 Tournament modes
-- 🔄 Social features and multiplayer# CandyBlast_SmartContract
+- 🔄 Social features and multiplayer

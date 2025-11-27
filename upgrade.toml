@@ -1,0 +1,9 @@
+# OneChain Move Package Upgrade Capabilities
+# This file tracks upgrade capabilities across different networks
+
+[environments.testnet]
+upgrade_cap = "0x9d6a7c0a04c69f4510d832997f846b8a14d0feeedce0c9e6670f9830d34c3b9c"
+package_id = "0x532427f5ec7f441d9296b488f3b27c96e811515614287d84c169d56b3628ecad"
+network_rpc = "https://rpc-testnet.onelabs.cc:443"
+created_at = "2025-11-27T02:27:41.475Z"
+
