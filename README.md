@@ -1,4 +1,5 @@
 # 🍬 Candy Blast Mini
+![Game Interface](./images/game.gif)
 
 A blockchain-powered candy-themed slot game built on the **One Chain** network. Players can spin colorful candy reels, earn points, and unlock exclusive NFT rewards!
 
@@ -75,15 +76,15 @@ The Sweet Bonanza smart contract provides the following functionality:
    - Updates user's point balance in the shared UserPoints table
 
 ### Current Features
-- ✅ Candy-themed 6x5 slot game
-- ✅ Point purchase system with OCT tokens
-- ✅ NFT reward system at milestone points
-- ✅ Persistent user balances stored on-chain
-- ✅ Transparent, blockchain-verified gameplay
+-  Candy-themed 6x5 slot game
+-  Point purchase system with OCT tokens
+-  NFT reward system at milestone points
+-  Persistent user balances stored on-chain
+-  Transparent, blockchain-verified gameplay
 
 ### Future Enhancements
-- 🔄 Additional candy symbols and special power-ups
-- 🔄 Leaderboard system
-- 🔄 Multiple NFT tiers for different achievements
-- 🔄 Tournament modes
-- 🔄 Social features and multiplayer
+-  Additional candy symbols and special power-ups
+-  Leaderboard system
+-  Multiple NFT tiers for different achievements
+-  Tournament modes
+-  Social features and multiplayer
